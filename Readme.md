@@ -24,6 +24,7 @@ Use the `GetColor(string name)` method to retrieve a color by its name or tag.
 
 ```csharp
 Color color = colorPalette.GetColor("TagName");
+```
 
 ### `ColorPaletteEntry`
 
